@@ -1,3 +1,5 @@
+//考題為： 1.血量從三滴變成四滴。  2.從三個掉落物變成四個掉落物。
+
 module LD_final_project(output reg [7:0] DATA_R, DATA_G, DATA_B,
 								output reg [6:0] d7_1, 
 								output reg [2:0] COMM,
